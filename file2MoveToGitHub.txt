@@ -1,1 +1,2 @@
 "hello this file is to be moved to github" 
+I have added this second line while the file was sitting on gitHUB after pushing it there
